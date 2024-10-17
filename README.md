@@ -35,6 +35,44 @@ Query 3 lsits out the employee IDs, what department they belong to, and their ov
 
 Query 3 finds out which employees’ hourly pays end in .00 which allows management to determine who should receive a raise next fiscal year as they have not gotten one this year. 
 
+## Query 4
+Query 4 lists 
+
+[insert image here]
+
+Query 4
+
+## Query 5
+Query 5 lists 
+
+[insert image here]
+
+Query 5
+
+## Query 6
+Query 6 lists 
+
+[insert image here]
+
+Query 6
+
+## Query 7
+Query 7 lists 
+
+[insert image here]
+
+Query 7
+
+## Query 8
+Query 8 lists 
+
+[insert image here]
+
+Query 8
+
+
+
+
 
 
 
