@@ -45,6 +45,7 @@ Moving to the `Menu` entity, it includes the name of each item as well as their 
 Query 1 Query 1 lists out the first and last names of the employees that are serving on tables and counts how many tables they are waiting on and how many seats total they are serving.
 
 ![Query1](https://github.com/user-attachments/assets/71e39bee-2c9b-47e1-b91b-ec6764b6da80)
+![query1output](https://github.com/user-attachments/assets/f792b9ec-b1ad-48db-89d9-f9a44e2aa23c)
 
 Query 1 shows managers how many tables and how many customers the servers are tending to. It can be used to provide an even workload and distribution of employees to manage the service flow/customer traffic.
 
@@ -52,6 +53,7 @@ Query 1 shows managers how many tables and how many customers the servers are te
 Query 2 lists the average order amount from customer orders and lists the average amount for each table seat type. This is sorted in descending order from largest average to smallest average.
 
 ![Query2](https://github.com/user-attachments/assets/a5b04aa8-0085-4940-9b40-61fd654dcea6) 
+![query2output](https://github.com/user-attachments/assets/aa8b79ce-747a-44eb-9956-2256902b1c95)
 
 Query 2 shows what types of tables bring in the most money from customers compared to the average order and earnings of other tables. This allows management to see what table seat types to add to the diner in the future to increase sales.
 
@@ -59,6 +61,7 @@ Query 2 shows what types of tables bring in the most money from customers compar
 Query 3 lsits out the employee IDs, what department they belong to, and their overall hourly pay when they’re hourly pay ends in .00. If an employee has received a raise in this fiscal year, their hourly pay would end in .25.
 
 ![Query3](https://github.com/user-attachments/assets/bcfaeb24-0ec9-41ff-9e3d-f8d0f92d6536)
+![query3output](https://github.com/user-attachments/assets/92f40eab-9a71-42e5-9778-89dd324aa14e)
 
 Query 3 finds out which employees’ hourly pays end in .00 which allows management to determine who should receive a raise next fiscal year as they have not gotten one this year. 
 
@@ -66,6 +69,7 @@ Query 3 finds out which employees’ hourly pays end in .00 which allows managem
 Query 4 lists the employees' names, their title, and hourly pay specifically between the Cook and Kitchen staff. It is grouped by the employee's department and job unique identifier and ordered by each department in descending order so Kitchen staff are presented first. 
 
 ![Query4](https://github.com/user-attachments/assets/ee18e381-ddfa-4ade-b695-db8e632e825c)
+![query4output](https://github.com/user-attachments/assets/f03e6ba2-0acc-4be8-949f-babd726c79fc)
 
 Query 4 ensures pay parity between kitchen and cook staff. While there has already been focus on server staff as they handle the clients, it’s important not to forget the back-of-house staff. This query allows managers to make sure that those holding these job positions are relatively equal in pay to support all staff in the restaurant.
 
@@ -73,6 +77,7 @@ Query 4 ensures pay parity between kitchen and cook staff. While there has alrea
 Query 5 counts the number of servers that the restaurant currently has employed.
 
 ![Query5](https://github.com/user-attachments/assets/2092087e-6573-43c2-8f38-a1967300ff61)
+![query5output](https://github.com/user-attachments/assets/d16277a5-44ab-4070-a172-c6d3ab4023ee)
 
 Query 5 is useful in determining if there are enough servers to ensure there are the right amount of servers. There can be a loss in performance for the restaurant if there are not enough servers to tend to tables and customers. However, it would be impractical and wasteful to have too many servers employed at one time. This helps management keep an equilibrium between customer server and managing costs.
 
@@ -80,6 +85,7 @@ Query 5 is useful in determining if there are enough servers to ensure there are
 Query 6 lists the customer contact information for customers who had a total over $40 in descending order.
 
 ![Query6](https://github.com/user-attachments/assets/bbdc50c9-6641-43b6-b76a-1ae744ced88e)
+![query6output](https://github.com/user-attachments/assets/4f842389-b560-40e7-a02e-15a91e53441e)
 
 Query 6 allows employees to pull the contact information of customers who spent a significant amount of money at the restaurant. By pulling this data, managers can use the contact information to send promotions details and news about any events. This is to entice the higher paying customer to come back to the restaurant and generate customer loyalty.
 
@@ -87,6 +93,7 @@ Query 6 allows employees to pull the contact information of customers who spent 
 Query 7 lists items on the menu with their name and price in descensding order if the price is less than or equal to 9.99. 
 
 ![Query7](https://github.com/user-attachments/assets/0aa2722c-a442-4cd8-9ee8-6364e64499ae)
+![query7output](https://github.com/user-attachments/assets/ae0dcc53-b23b-4814-aad8-bb43afef6653)
 
 Query 7 is important as The Dawg House serves the local community, many of which are college students. Considering this, managers are going to want to cater to the "broke college student" demographic and make sure there are ample menu items that are afforadable and appealing.
 
@@ -94,6 +101,7 @@ Query 7 is important as The Dawg House serves the local community, many of which
 Query 8 shows the amount of reservations for each table in descending order along with the amount of seats the table has. 
 
 ![Query8](https://github.com/user-attachments/assets/d1b81a75-87ff-4898-8162-c2a446ee2616)
+![query8output](https://github.com/user-attachments/assets/69a51877-991e-4157-b77f-a14766b3a15c)
 
 Query 8 helps managers determine if certain tables receive more reservations based on amount of seats. Additionally, it can help servers know how to optimize walk-in customer traffic and direct them to tables that are not as popular for reservations to ensure the seating is utilized.
 
