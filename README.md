@@ -11,6 +11,15 @@
 ![project1datamodel](https://github.com/user-attachments/assets/49685ea9-25be-4559-b2ed-0f03d6f6f004)
 
 # Data Dictionary
+![customerOrders](https://github.com/user-attachments/assets/0920db1a-bd17-49d3-a3cd-5eb49b6deefd)
+![promotions](https://github.com/user-attachments/assets/6a87fe9e-de3f-4880-bcd1-125c73d7a0d3)
+![orderdetails](https://github.com/user-attachments/assets/7aba5d9a-827b-4528-a254-2444124e505a)
+![menu](https://github.com/user-attachments/assets/7f553ebf-f9d1-488a-a93c-011491f69510)
+![jobs](https://github.com/user-attachments/assets/64d1d74c-351f-403f-8633-e2205ae2402a)
+![Employees](https://github.com/user-attachments/assets/bf8b9f12-8174-4f68-8d71-7c551274d9d6)
+![tableRes](https://github.com/user-attachments/assets/643a2005-ad2b-47aa-bdf5-567c1df87720)
+![seating](https://github.com/user-attachments/assets/96cdb6b2-945f-49aa-9140-96cefe5295f0)
+
 
 # Queries
 [insert query matrix here] 
