@@ -8,6 +8,7 @@
 
 
 # Data Model
+![project1datamodel](https://github.com/user-attachments/assets/49685ea9-25be-4559-b2ed-0f03d6f6f004)
 
 # Data Dictionary
 
