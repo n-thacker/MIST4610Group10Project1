@@ -22,7 +22,7 @@
 
 
 # Queries
-[insert query matrix here] 
+![querymatrix](https://github.com/user-attachments/assets/1f45a08f-346c-4971-9f7f-b1700a6c5d74)
 
 ## Query 1
 Query 1 lists out the first and last names of the employees that are serving on tables and counts how many tables they are waiting on and how many seats total they are serving.
