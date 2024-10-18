@@ -4,7 +4,7 @@
 
 # Group Members
 1. Nozomi Thacker [@n-thacker](https://github.com/n-thacker) 
-2. Addie Rollins [@addisonrollins](https://www.github.com/octokatherine)
+2. Addie Rollins [@addisonrollins](https://github.com/arollins5/MIST-GroupProject1/blob/main/README.md)
 
 # Scenario Description
 The objective of this project is to create a relational database modeled after hypothetical local restaurant The Dawg House. The Dawg House is a local Athens restaurant that caters to the local community and students at UGA. Our goal is to gain knowledge using the database as well as to improve day-to-day business within the diner, refine the workflow, and provide better service to customers. To do this, we have modeled the relevant relationships and entities as well as generated sample data to perform queries that will help us achieve our goal.
