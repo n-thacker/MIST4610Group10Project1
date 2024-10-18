@@ -3,7 +3,7 @@
 4610Fa24Group10
 
 # Group Members
-1. Nozomi Thacker [@n-thacker](https://github.com/n-thacker/MIST4610Group10Project1)
+1. Nozomi Thacker [@nozomithacker](https://github.com/n-thacker/MIST4610Group10Project1)
 2. Addie Rollins [@addisonrollins](https://github.com/arollins5/MIST-GroupProject1/blob/main/README.md)
 
 # Scenario Description
