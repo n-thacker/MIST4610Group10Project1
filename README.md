@@ -105,6 +105,9 @@ Query 8 shows the amount of reservations for each table in descending order alon
 
 Query 8 helps managers determine if certain tables receive more reservations based on amount of seats. Additionally, it can help servers know how to optimize walk-in customer traffic and direct them to tables that are not as popular for reservations to ensure the seating is utilized.
 
+# Presentation Link
+[Presentation Slideshow]([url](https://docs.google.com/presentation/d/1NC_LrD7BzF1PbfOOfNsZf66cgQCfGf4M/edit?usp=sharing&ouid=105131982117693300215&rtpof=true&sd=true))
+
 
 
 
