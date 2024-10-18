@@ -10,7 +10,7 @@
 The objective of this project is to create a relational database modeled after hypothetical local restaurant The Dawg House. The Dawg House is a local Athens restaurant that caters to the local community and students at UGA. Our goal is to gain knowledge using the database as well as to improve day-to-day business within the diner, refine the workflow, and provide better service to customers. To do this, we have modeled the relevant relationships and entities as well as generated sample data to perform queries that will help us achieve our goal.
 
 # Data Model
-![project1datamodel](https://github.com/user-attachments/assets/49685ea9-25be-4559-b2ed-0f03d6f6f004)
+![project1datamodel](https://github.com/user-attachments/assets/0aacc765-e8fa-43d5-9d5d-e692ead95465)
 
 ## Data Model Description
 Our data model starts with the `Jobs` entity. This entity represents each department in the restaurant. It contains the pay and description of each job department. Additionally, each department has many employees, but not all employees need to have a department, which is represented by the non-identifying one-to-many relationship with the `Employees` entity.
@@ -105,8 +105,11 @@ Query 8 shows the amount of reservations for each table in descending order alon
 
 Query 8 helps managers determine if certain tables receive more reservations based on amount of seats. Additionally, it can help servers know how to optimize walk-in customer traffic and direct them to tables that are not as popular for reservations to ensure the seating is utilized.
 
+## Database Information
+Each of the queries shown in this project are bookmarked through the use of stored procedures in the database ns_4610Fa24Group10. These queries can be called upon using TP_Qx where x is replaced by the query number.
+
 # Presentation Link
-[Presentation Slideshow](https://docs.google.com/presentation/d/1NC_LrD7BzF1PbfOOfNsZf66cgQCfGf4M/edit?usp=sharing&ouid=105131982117693300215&rtpof=true&sd=true)
+For a visual presentation on the scenario, data model, and first 3 complex queries for our project please visit: [Presentation Slideshow](https://docs.google.com/presentation/d/1NC_LrD7BzF1PbfOOfNsZf66cgQCfGf4M/edit?usp=sharing&ouid=105131982117693300215&rtpof=true&sd=true)
 
 
 
